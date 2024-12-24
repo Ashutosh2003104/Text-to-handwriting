@@ -1,15 +1,19 @@
 
 
 Text to Handwriting Converter
+
+
 A Python project that converts typed text into realistic handwriting and saves it as an image. This is a creative and fun way to transform your digital notes into a personalized handwritten format.
 
 Features
+
 Converts plain text into an image with handwriting-like style.
 Customizable handwriting color (supports RGB values).
 Easy-to-use script suitable for beginners.
 Saves the output as a .png image for further use.
 Perfect for creating personalized notes, cards, or decorative items.
 Requirements
+
 Make sure you have the following installed on your system:
 
 Python 3.x
@@ -20,9 +24,10 @@ Setup Instructions
 Follow these steps to set up and run the project:
 
 1. Install Python
+2. 
 Ensure that Python 3.x is installed on your system. You can download it from python.org.
 
-2. Install Dependencies
+3. Install Dependencies
 Open a terminal or command prompt and run the following commands:
 
 bash
